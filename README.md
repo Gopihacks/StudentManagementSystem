@@ -149,7 +149,7 @@ Student Management System
 
 **Gopinath M**  
 📍 Student Developer | Passionate about Java, SQL & Backend Development  
-📧 [Add your email or LinkedIn here]  
+📧 gopinathmadhu1000@gmail.com  
 
 ---
 
